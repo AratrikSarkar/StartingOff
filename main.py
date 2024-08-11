@@ -1,2 +1,1 @@
-print("hello world")
-print("arkadeep is great")
+print(5+6)
